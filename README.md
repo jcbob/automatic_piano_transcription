@@ -3,7 +3,7 @@ This is a repository for a project titled "Automatic Piano Transcription" associ
 
 ---
 - Date begun: March 2024
-- Date ended: -
+- Date ended: 10.07.2024
 - Author(s): Jakub Wolski, Patryk Gawłowski
 ---
 
